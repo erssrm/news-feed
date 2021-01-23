@@ -3,6 +3,7 @@
 A simple react and material design News feed implementation by using of free API(newsapi.org).
 
 <img src="./src/assets/demo.PNG" width="1000" height="350">
+
 ## How to install
 1) Clone the code : git clone https://github.com/erssrm/news-feed.git
 2) Move to project directory
